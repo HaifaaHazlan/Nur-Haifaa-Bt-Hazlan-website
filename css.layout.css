@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document background color*/
+
+/* MAIN BACKGROUND SECTION */
+
+.page {background-color:#7DCEA0 ; width:90% ; margin:auto; padding:10px;}
+
+
+
+/* HEADER SECTION */
+
+.header-main {background-color:#7DCEA0 ;}
+.content1 {font-family: "Time New Roman"; font-size: 18px; color: black; text-align: center;}
+
+.content2  {font-family: "Andalus"; font-size: 10px; color: #3b1701; text-align: justify;}
+
+.content3 {text-align: center;}
+
+.content4 {text-align: left;}
+
+main {background-color:#FFC; width:70%; float:left; padding:10px; }
+
+.social-sites li {display: inline-block; position:relative; left:600px; top:-40px;} 
+
+
+.nav-main {border-top:4px solid #3b1701; border-bottom: 1px solid #c8c8c8; padding: .45em 0 .5em; font-family: "Elephant"; font-size:20px; color:#3b1701; text-align: center;}
+
+.nav-main li {border-left: 1px solid black; display: inline-block;}
+
+.nav-main li:first-child {border-left: none;}
+
+/* SIDEBAR SECTION */
+
+.sidebar {background-color:#FFC; width:26%; float:right; padding:10px; }
+.sidebar {font-family: "Adobe Arabic"; font-size: 18px; color: black; text-align: center;}
+
+/* FOOTER SECTION */
+
+.footer-main {background-color:#fcc54e; clear:both; padding:10px; text-align: center;}
+
+
+

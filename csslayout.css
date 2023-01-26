@@ -1,0 +1,234 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*MAIN BACKGROUND SECTION*/
+.page {background-color:#9CCC65 ; width:90%; margin:auto; padding:10px;}
+
+body {
+    
+}
+
+/*HEADER SECTION*/
+
+.header-main {background-color:#AED581  ;}
+   
+/*CONTENT SECTION*/
+a.button {
+-webkit-transition: all 200ms cubic-bezier(0.590, 0.500, 0.150, 1.360);
+-moz-transition: all 200ms cubic-bezier(0.590, 0.500, 0.150, 1.360);
+-ms-transition: all 200ms cubic-bezier(0.590, 0.500, 0.150, 1.360);
+-o-transition: all 200ms cubic-bezier(0.590, 0.500, 0.150, 1.360);
+transition: all 200ms cubic-bezier(0.590, 0.500, 0.150, 1.360);
+-o-transition: all 200ms cubic-bezier(0.590, 0.500, 0.150, 1.360);
+transition: all 200ms cubic-bezier(0.590, 0.500, 0.150, 1.360);
+color: white;
+display: center-block;
+position:relative;
+left:-20px;
+background-color: #DCEDC8;
+text-decoration: none;
+border-radius: 8px;
+width: 15%;
+padding: 0.8%;
+
+
+}
+a.button {
+	color: rgba(30, 22, 54, 0.8);
+	box-shadow: rgba(30, 22, 54, 0.4) 0 0px 0px 2px inset;
+}
+
+a.button:hover {
+	color: rgba(255, 255, 255, 0.85);
+	box-shadow: #1F618D 0 0px 0px 50px inset;
+}
+
+.image:hover
+{
+        -webkit-transform: rotateZ(-30deg);
+        -ms-transform: rotateZ(-30deg);
+        -transform: rotateZ(-30deg);
+	-webkit-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+	-moz-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+	-ms-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+	-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+}
+
+.image2:hover
+{
+        -webkit-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        -transform: scale(1.2);
+	-webkit-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+	-moz-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+	-ms-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+	-transition: all 200ms cubic-bezier(0.390, 0.500, 0.150, 1.360);
+}
+
+
+.nav {text-align:center}
+	  
+
+main {background-color: #C5E1A5 ; width:70%; 
+    border: 1px solid black;   
+    float:left;
+    padding:10px;
+}
+   
+.center1 {
+    margin: auto;
+    border: 3px solid red;
+    padding: 10px;
+}
+
+.center2 {
+    margin: auto;
+    border: 3px solid blue;
+    padding: 10px;
+}
+
+.center3 {
+    margin: auto;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.center4 {
+    margin: auto;
+    border: 3px solid black;
+    padding: 7px;
+    align: center;
+}
+
+.post-photo-full {
+    border-radius: 8px;
+}
+
+.imgrnd {
+    border-radius: 50%;
+}
+
+#id-span1 {color:yellow}
+
+#id-span2 {color:red}
+
+#id-span3 {color:green}
+
+#id-span4 {color:black}
+
+#id-span5 {color:white}
+
+#id-span6 {color:white}
+
+
+.p1 {
+    font-size: 20px;
+	position: center;
+	color: 	black;
+    font-family: Cambria;	
+}
+
+.a1 {
+    font-size: 150%;
+	position: center;
+	color: 	#44516C;
+    font-family:Cambria;	
+}
+
+.a2 {
+    font-size: 250%;
+	position: center;
+	color: 	green;
+    font-family:Kristen ITC;
+   
+}
+
+h1 {
+    font-size: 100%;
+	position: center;
+	color: black;
+    font-family:Times New Roman;	
+}
+
+
+h2 {
+    font-size: 250%;
+	position:center;
+	color: #586D99;	
+}
+
+h3 {
+    font-size: 200%;
+	position:center;
+	color:black;	
+}
+
+h4 {
+    font-size: 150%;
+	position:center;
+	color:black;	
+}
+
+  
+
+.div2 {
+	background-color: #8FBC8F;
+	min-height: 1000px;
+	width:600px;
+	border: 5px solid;
+	border-style: hidden;
+	float: left;
+	margin-left: 7%;
+	margin-right: 10px;
+	margin-top: 0px;
+	padding-top: 30px;
+	padding-left: 20px
+}
+
+.div3 {
+	background-color:#F5F5DC;
+	min-height: 1000px;
+	width:600px;
+	border: 5px solid;
+	border-style: hidden;
+	float: left;
+	margin-left: 7%;
+	margin-right: 10px;
+	margin-top: 0px;
+	padding-top: 30px;
+	padding-left: 20px
+}
+
+
+
+.div6 {
+	background-color: transparent;
+	min-height: 800px;
+	width:600px;
+	border: 5px solid;
+	border-style: hidden;
+	float: left;
+	margin-left: 7%;
+	margin-right: 10px;
+	margin-top: 0px;
+	padding-top: 30px;
+	padding-left: 20px
+}
+   
+.sidebar {background-color:#FCF3CF; 
+          float: right;
+          width: 26%;
+          border: 2px solid;
+          padding: 0.4%;
+}
+		  
+
+/*FOOTER SECTION*/
+
+.footer-main {background-color:none; clear:both;
+padding:10px;}
+
+html { 
+  background: url(image/background.jpg) no-repeat center center fixed; 
+  background-size: cover;
+}
